@@ -2,6 +2,7 @@
 [![Container Repository on Quay](https://quay.io/repository/konveyor/move2kube/status "Container Repository on Quay")](https://quay.io/repository/konveyor/move2kube)
 [![License](https://img.shields.io/:license-apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Go Report Card](https://goreportcard.com/badge/github.com/konveyor/move2kube)](https://goreportcard.com/report/github.com/konveyor/move2kube)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fmove2kube.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fmove2kube?ref=badge_shield)
 [<img src="https://img.shields.io/badge/slack-konveyor/move2kube-green.svg?logo=slack">](https://kubernetes.slack.com/archives/CR85S82A2)
 
 # Move2Kube
@@ -105,3 +106,7 @@ To browse code [![Open in VSCode](https://open.vscode.dev/badges/open-in-vscode.
 ## Discussion
 
 * For any questions reach out to us on any of the communication channels given on our website https://move2kube.konveyor.io/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fmove2kube.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fmove2kube?ref=badge_large)
